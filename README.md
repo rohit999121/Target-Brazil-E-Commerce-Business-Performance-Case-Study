@@ -126,6 +126,6 @@ The detailed SQL queries, analysis, and findings are available in:
 
 **Your Name**
 
-GitHub: https://github.com/yourusername
+GitHub:https://github.com/rohit999121
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/rohit-kumar-4623951b9?utm_source=share_via&utm_content=profile&utm_medium=member_android
