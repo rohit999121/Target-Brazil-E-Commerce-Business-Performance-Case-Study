@@ -118,7 +118,7 @@ Target-Brazil-E-Commerce-Business-Performance-Case-Study/
 
 The detailed SQL queries, analysis, and findings are available in:
 
-**[Target_Brazil_Ecommerce_Business_Performance_Case_Study.pdf](./Target_Brazil_Ecommerce_Business_Performance_Case_Study.pdf)**
+(**[SQL_Case_Study.pdf](./SQL_Case_Study.pdf)**)**
 
 ---
 
